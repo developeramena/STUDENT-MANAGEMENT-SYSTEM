@@ -6,17 +6,11 @@
 
 > If you have any suggestions feel free create issues.
 
-- [Demo](#demo)
 - [Feature](#feature-of-student-management-system)
 - [Technology](#technology)
 - [Screen Shot](#screen-shot)
 - [Installation](#installation)
 
-Demo
------------------------------
-- **URL** - http://ems.tserm.com
-- **Username** -  github_user
-- **Password** - guser
 
 Feature of Student Management System
 -----------------------------
