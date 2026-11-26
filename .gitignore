@@ -1,0 +1,28 @@
+# Database credentials
+/config/db.php
+
+# Original database dump containing sample or personal data
+/sql/install_sql.sql
+
+# Composer-generated dependencies
+/tool/vendor/vendor/
+
+# Environment files
+.env
+.env.*
+
+# Runtime uploads
+/upload/*
+!/upload/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+cache/
+temp/
+
+# Editors and operating systems
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

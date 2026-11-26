@@ -1,0 +1,8 @@
+{
+  "name": "developeramena/student-management-system",
+  "description": "A PHP-based student management system for managing students, attendance, batches and examinations.",
+  "type": "project",
+  "require": {
+    "picqer/php-barcode-generator": "0.2.1"
+  }
+}
